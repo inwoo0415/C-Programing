@@ -1,0 +1,6 @@
+﻿  20221117_aiw_test1.cpp
+D:\20221117\20221117_aiw_test1\20221117_aiw_test1\20221117_aiw_test1.cpp(19,29): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\20221117\20221117_aiw_test1\20221117_aiw_test1\20221117_aiw_test1.cpp(24,20): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\20221117\20221117_aiw_test1\20221117_aiw_test1\20221117_aiw_test1.cpp(25,15): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\20221117\20221117_aiw_test1\20221117_aiw_test1\20221117_aiw_test1.cpp(27,58): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  20221117_aiw_test1.vcxproj -> D:\20221117\20221117_aiw_test1\Debug\20221117_aiw_test1.exe
